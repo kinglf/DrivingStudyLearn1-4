@@ -7,7 +7,7 @@ Automatically play the next lesson after the current lesson is over
 ## 需要
 > 1. 安卓模拟器&海淀驾校App(http://app.xuechebu.com/haijia/index_android.html)
 > 2. ADB (一般模拟器都带,可以自己去安装目录找一找,或者百度一个)
-> 3. python3(2 没试)
+> 3. python3(自行解决依赖问题) 
 
 
 ## 操作
